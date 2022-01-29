@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning plain css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-instagram: https://www.instagram.com/jhonmicc/
-twitter: https://twitter.com/stilllearncode
+- instagram: https://www.instagram.com/jhonmicc/
+- twitter: https://twitter.com/stilllearncode
 
 <!---
 jhonmicc/jhonmicc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
