@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development especially in front end
 - 🌱 I’m currently learning html and plain css
 - 📫 How to reach me:
+- email: jhonmichaaelmanik@gmail.com
 - instagram: https://www.instagram.com/jhonmicc/
 - twitter: https://twitter.com/stilllearncode
 
