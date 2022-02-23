@@ -7,7 +7,7 @@
 - twitter: https://twitter.com/stilllearncode
 
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=jhonmicc&show_icons=true&theme=tokyonight" 
+   src="https://github-readme-stats.vercel.app/api?username=jhonmicc&show_icons=true&theme=gotham" 
 />
 
 <!---
