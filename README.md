@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS Plain, Bootstrap and (soon) Javascript**
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Let's discuss about **Front End Web Development**
 
 - 📫 Reach me 👉 **jhonmichaelmanik@gmail.com**
 
