@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/stilllearncode" target="blank"><img src="https://img.shields.io/twitter/follow/stilllearncode?logo=twitter&style=for-the-badge" alt="stilllearncode" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, and Javascript**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Node & Express JS**
 
 - 💬 Let's discuss about **Front End Web Development**
 
