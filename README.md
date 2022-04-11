@@ -23,8 +23,7 @@
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonmicc&show_icons=true&theme=gotham&locale=en&layout=compact" alt="jhonmicc" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonmicc&show_icons=true&theme=gotham&locale=en&hide=stars,issues" alt="jhonmicc" width="500" /> 
-  <img src="/img3.png" width="100" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonmicc&show_icons=true&theme=gotham&locale=en&hide=stars,issues" alt="jhonmicc" width="500" />
 </p>
 
 <a href="https://app.daily.dev/jhonmicc"><img src="https://api.daily.dev/devcards/c483b4ad62954192b6050054b7456198.png?r=1cc" width="400" alt="Jhon Michael Manik's Dev Card"/></a>
