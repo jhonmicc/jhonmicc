@@ -25,8 +25,11 @@
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonmicc&show_icons=true&theme=gotham&locale=en&layout=compact" alt="jhonmicc" width="300" />
   <img src="https://github-readme-stats.vercel.app/api?username=jhonmicc&show_icons=true&theme=gotham&locale=en&hide=stars,issues" alt="jhonmicc" width="450" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonmicc&theme=gotham" alt="jhonmicc" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonmicc&theme=gotham" alt="jhonmicc" />
+</p>
+
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
