@@ -1,7 +1,7 @@
 <h1 align="center">👋Hi!, I'm Jhon Michael Manik</h1>
 <h3 align="center">A passionate front end development learner from Indonesia</h3>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jhonmicc&label=Profile%20views&color=0e75b6&style=flat" alt="jhonmicc" /> </p>
 
 <p align="left"> <a href="https://twitter.com/stilllearncode" target="blank"><img src="https://img.shields.io/twitter/follow/stilllearncode?logo=twitter&style=for-the-badge" alt="stilllearncode" /></a> </p>
 
