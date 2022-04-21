@@ -1,44 +1,41 @@
 <h1 align="center">👋Hi!, I'm Jhon Michael Manik</h1>
-<h3 align="center">A passionate front end development learner from Indonesia</h3>
+<h2 align="center">A passionate front end development learner from Indonesia</h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jhonmicc&label=Profile%20views&color=0e75b6&style=flat" alt="jhonmicc" /> </p>
+* 🌍  I'm based in Malang, Indonesia
+* ✉️  You can contact me at [jhonmichaelmanik@gmail.com](mailto:jhonmichaelmanik@gmail.com)
+* 🧠  I'm learning HTML, CSS, Javascript & ReactJS
+* 🤝  I'm open to collaborating on interesting project
 
-<p align="left"> <a href="https://twitter.com/stilllearncode" target="blank"><img src="https://img.shields.io/twitter/follow/stilllearncode?logo=twitter&style=for-the-badge" alt="stilllearncode" /></a> </p>
+<a href="https://www.twitter.com/stilllearncode" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/stilllearncode?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/jhonmicc" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/jhonmicc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript & React**
+### Skills
 
-- 💬 Let's discuss about **Front End Web Development**
-
-- 📫 Reach me 👉 **jhonmichaelmanik@gmail.com**
-
-<h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/jhonmichaelmanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonmichaelmanik" height="30" width="40" /></a>
-<a href="https://twitter.com/stilllearncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stilllearncode" height="30" width="30" /></a>
-<a href="https://instagram.com/jhonmicc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhonmicc" height="30" width="30" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### Socials
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonmicc&show_icons=true&theme=gotham&locale=en&layout=compact" alt="jhonmicc" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonmicc&show_icons=true&theme=gotham&locale=en&hide=stars,issues" alt="jhonmicc" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonmicc&theme=gotham" alt="jhonmicc" />
-</p>
+<p align="left"> <a href="https://www.github.com/jhonmicc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jhonmicc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jhonmichaelmanik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/stilllearncode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-## Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Badges
 
-<p></p>
+<b>My GitHub Stats</b>
 
+
+<a href="http://www.github.com/jhonmicc"><img src="https://github-readme-stats.vercel.app/api?username=jhonmicc&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jhonmicc's GitHub stats" /></a>
+
+<a href="http://www.github.com/jhonmicc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonmicc&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 
-
-
-<!---
-jhonmicc/jhonmicc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/jhonmicc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmicc&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
